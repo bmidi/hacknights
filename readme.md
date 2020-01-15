@@ -1,4 +1,4 @@
-# Hack Nights @ newhaven.io
+# Hack Nights @ newhaven.io proposal
 ## OUTCOMES
 ### MEMBER ENGAGEMENT
 Hack Nights should involve a high level of user engagement prior to the event. Events will be determined by suggestion and polling system that extends throughout the month. After the initial stage, ideas will move on to polling. (Ideas might involve multiple levels of polling depending on how granular the goal). The goal should be chosen at least 72 hours before the event, so the event title can be updated to reflect the goal. The point of this is to make the event feel entirely member driven.
